@@ -188,3 +188,5 @@ class WilsonCowan_SFA(ModelNumbaDfun):
                             self.c_inhinh, self.inh_ext, self.k_e, self.k_i, self.h_e, self.h_i, 
                             self.n, self.a_a, self.mu_a, self.tau_exc, self.tau_inh, self.tau_a, self.tau_uE, self.tau_uI)
         return deriv.T[..., numpy.newaxis]
+
+  
