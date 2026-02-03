@@ -36,7 +36,7 @@ pip install -r requirements.txt
 The best way to get started is through our Jupyter notebook:
 
 ```bash
-jupyter notebook Jansen-Rit_SFA_demo.ipynb
+jupyter notebook JR_SFA_demo.ipynb
 ```
 
 ## Model Description
