@@ -1,0 +1,4 @@
+tvb-library==2.7.2
+numpy==1.23.1
+matplotlib==3.5.3
+pandas==2.2.3
