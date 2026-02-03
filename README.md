@@ -18,6 +18,9 @@ This repository implements a multiscale neural mass model for studying the gener
 - `WC_SFA.py` - TVB implementation of the Wilson-Cowan model with adaptation
 - `JR_SFA.ode` - XPPAUT file of the Jansen-Rit model with adaptation
 - `JR_SFA_demo.ipynb` - Multi-scale simulation showcase (isolated population → whole-brain)
+- `AAL_conn` - Folder containing the SC matrices used in the whole-brain simulations. Download the file “SCmatrices88healthy.mat” from https://osf.io/yw5vf/files/6823g
+ and place it in the AAL_conn folder, or use your own SC matrix.
+
 
 ## Installation
 
