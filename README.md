@@ -63,8 +63,7 @@ Key features:
 
 ## Contact
 
-Gianluca Gaglioti - gianluca.gaglioti@unimi.it  
-Marcello Massimini - marcello.massimini@unimi.it
+Gianluca Gaglioti - gaglioti.gianluca@gmail.com
 
 ## License
 
