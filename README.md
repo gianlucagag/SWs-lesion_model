@@ -10,7 +10,7 @@ A computational framework for simulating sleep-like neuronal dynamics following 
 
 This repository implements a multiscale neural mass model for studying the generation and propagation of slow waves (SWs) in brain networks with virtual lesions. The model combines the classical Jansen-Rit model with activity-dependent adaptation to capture transitions between wake-like and sleep-like cortical dynamics.
 
-![Figure 1: Jansen-Rit Model with Spike-Frequency Adaptation](./figures/fig. 1 (Methods).png)
+![Figure 1: Jansen-Rit Model with Spike-Frequency Adaptation](./figures/fig._1.png)
 
 ## Repository Contents
 
@@ -28,7 +28,7 @@ cd SWs-lesion_model
 pip install -r requirements.txt
 ```
 
-**Dependencies**: tvb-library, numpy, matplotlib, pandas, jupyter
+**Dependencies**: tvb-library, numpy, matplotlib, pandas
 
 
 ## Usage
