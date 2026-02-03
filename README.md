@@ -1,4 +1,4 @@
-# Slow Wave Generation a Propagation in a Model of Brain lesions
+# Slow Wave Generation and Propagation in a Model of Brain lesions
 
 A computational framework for simulating sleep-like neuronal dynamics following brain injury using an extended Jansen-Rit neural mass model with spike-frequency adaptation.
 
