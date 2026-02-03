@@ -1,0 +1,18 @@
+Human brain structural connectivity matrices–ready for modelling
+Contributors: Antonin Skoch Jan Mares Barbora Rehak Buckova Jaroslav Tintera Pavel Sanda Lucia Jajcay Jiri Horacek Filip Španiel Jaroslav Hlinka
+Date created: 2021-06-17 10:19 AM | Last Updated: 2022-08-11 10:55 AM
+
+Identifier: DOI 10.17605/OSF.IO/YW5VF
+
+Category:  Data
+
+Description: For a detailed description, see our article: Human brain structural connectivity matrices–ready for modelling (doi: 10.1038/s41597-022-01596-9)
+
+License: CC-By Attribution 4.0 International 
+
+https://osf.io/yw5vf/
+
+article: https://www.nature.com/articles/s41597-022-01596-9
+
+### MNI coords ####
+https://plos.figshare.com/articles/dataset/_Abbreviations_and_MNI_coordinates_of_AAL_/184981?file=514488
