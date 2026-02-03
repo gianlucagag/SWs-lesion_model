@@ -36,11 +36,8 @@ pip install -r requirements.txt
 
 ## Usage
 
-The best way to get started is through our Jupyter notebook:
+Start with **[JR_SFA_demo.ipynb](JR_SFA_demo.ipynb)** for a complete walkthrough of the model at all scales.
 
-```bash
-jupyter notebook JR_SFA_demo.ipynb
-```
 
 ## Model Description
 
