@@ -10,6 +10,9 @@ A computational framework for simulating sleep-like neuronal dynamics following 
 
 This repository implements a multiscale neural mass model for studying the generation and propagation of slow waves (SWs) in brain networks with virtual lesions. The model combines the classical Jansen-Rit model with activity-dependent adaptation to capture transitions between wake-like and sleep-like cortical dynamics.
 
+📄 Published article:
+https://doi.org/10.1016/j.neuroimage.2026.121817
+
 ![Figure 1: Jansen-Rit Model with Spike-Frequency Adaptation](./figures/fig._1.png)
 
 ## Repository Contents
@@ -55,9 +58,15 @@ Key features:
 
 ```bibtex
 @article{Gaglioti2026,
-  title={Slow wave generation and propagation in a model of brain lesions},
-  author={Gaglioti, G. and Dalla Porta, L. and Colombo, M. A. and others},
-  year={2026}
+  title = {Slow wave generation and propagation in a model of brain lesions},
+  author = {Gaglioti, Gianluca and Dalla Porta, Leonardo and Colombo, Michele Angelo and Russo, Simone and Nieus, Thierry and Deco, Gustavo and Corbetta, Maurizio and Sarasso, Simone and Sanchez-Vives, Maria V. and Massimini, Marcello},
+  journal = {NeuroImage},
+  volume = {329},
+  pages = {121817},
+  year = {2026},
+  issn = {1053-8119},
+  doi = {10.1016/j.neuroimage.2026.121817},
+  url = {https://www.sciencedirect.com/science/article/pii/S1053811926001333}
 }
 ```
 
